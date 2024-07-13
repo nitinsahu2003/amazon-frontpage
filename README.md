@@ -1,1 +1,1 @@
-# amazon-forntpage
+# amazon-front page
